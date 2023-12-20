@@ -1,4 +1,5 @@
-## My Webstack Portfolio Project
+# CRUD APPLICATION
+The CRUD abbreviation which simply stands for CREATE, READ, UPDATE AND DELETE is an application which is widely used in most institutions and organizations. It helps organize and maintain data.
 
-CRUD in full means CREATE, READ, UPDATE & DELETE
-This is a backend application that helps to mage information of clients and businesses.
+This is a personal project which I have created to boost my understanding on CRUD Application.
+Bootstrap User Interface(UI) was used for this project 
